@@ -1,5 +1,5 @@
 # Learning Tube Certified Control Using Robust Contraction Metric
-<!--- We modified code taken from [C3M](https://github.com/sundw2014/C3M) which is the repo open-sourced by the authors of "[Learning Certified Control Using Contraction Metric](https://arxiv.org/abs/2011.12569)"-->
+
 
 ## Install package dependencies
 Dependencies include ```torch```, ```tqdm```, ```numpy```, and ```matplotlib```. You can install them using the following command.
@@ -59,4 +59,5 @@ plot_compare_trajs.m
 ````
 
 The motion planner uses trajectory-optimization toolbox taken from [OptimTraj](https://github.com/MatthewPeterKelly/OptimTraj)
+Part of the code taken from [C3M](https://github.com/sundw2014/C3M) 
 
